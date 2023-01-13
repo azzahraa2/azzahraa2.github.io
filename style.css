@@ -1,0 +1,45 @@
+nav {
+  background-color: rgb(142, 74, 18);
+}
+
+.awal {
+  padding-top: 152px;
+  background-color: rgb(204, 163, 109);
+}
+
+span {
+  color: rgb(204, 163, 109);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.miring {
+  font-style: italic;
+  font-family: sans-serif;
+}
+
+.fa-solid:hover {
+  color: rgb(142, 74, 18);
+}
+
+.card {
+  background-color: rgb(142, 74, 18);
+  color: khaki;
+}
+
+.text {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+}
+
+#gallery {
+  padding-top: 30px;
+  background-color: rgb(204, 163, 109);
+}
+
+section {
+  padding-top: 56px;
+}
